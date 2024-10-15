@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tienda de Calzado</string>
+
+
+    <!-- Opciones del Menú -->
+    <string name="nosotros2">Kings of Rodeo</string>
+    <string name="scroll">Articulos</string>
+    <string name="detalles">Detalles</string>
+    <string name="formulario">Formulario</string>
+    <string name="consultar">Consultar</string>
+    <string name="cerrar">Cerrar sesión</string>
+
+    <!-- Opciones del Spinner -->
+    <string-array name="articulo">
+        <item>Calceta Clásica</item>
+        <item>Gorra Wild Cowboys</item>
+        <item>Paliacate Cowboys</item>
+        <item>Chamarra Biker</item>
+        <item>Pantalón Bestial Club</item>
+        <item>Jersey Champagne</item>
+    </string-array>
+
+    <!--Nosotros -->
+    <string name="nosotros">Kings of Rodeo arranca en el año 1991 con clara vocación internacional
+        y con la intención de vestir a jóvenes comprometidos con su entorno, que viven en comunidad y se relacionan entre sí.
+        Jóvenes que visten de forma relajada, huyendo de los estereotipos y que quieren sentirse bien con lo que llevan.</string>
+
+</resources>
